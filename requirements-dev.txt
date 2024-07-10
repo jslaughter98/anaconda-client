@@ -21,3 +21,4 @@ types-setuptools~=67.8.0.0
 types-six~=1.16.21.8
 types-tqdm~=4.65.0.1
 typing-extensions~=4.6.0
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
